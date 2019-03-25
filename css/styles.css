@@ -1,0 +1,76 @@
+h1 {
+  color: #66bfbf;
+  margin-top:0;
+  font-family: "Copperplate";
+  font-size: 40px;
+}
+
+h3 {
+  color: #66bfbf;
+  margin-left: 0px;
+  font-family: "Copperplate";
+  font-size: 25px;
+}
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+  }
+
+.container1
+{
+
+background-color: #eaf6f6;
+margin:0;
+font-family: "Georgia";
+}
+.container2
+{
+font-family: "Georgia";
+background-color: white;
+
+}
+.container3
+{
+font-family: "Georgia";
+background-color: #eaf6f6;
+margin:0;
+}
+.container4
+{
+font-family: "Georgia";
+background-color: white;
+
+}
+.container5
+{
+font-family: "Georgia";
+background-color: #eaf6f6;
+margin:0;
+}
+.container6
+{
+font-family: "Georgia";
+background-color: white;
+
+}
+.container7
+{
+
+background-color: #009f9d;
+margin:0;
+font-family: "Copperplate";
+font-size: 15px;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+}
